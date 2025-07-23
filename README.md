@@ -55,12 +55,10 @@ It was also a bit tricky to know where to place the loops in the code, and how t
 ## How to Use the Code (Step-by-Step)
 
 1. Go to Amazon and search for a product (for example: “smartphones”)
-2. Scroll to the bottom and click on **page 2**
-3. Copy the **URL of page 2**
-4. Run the **first part of the code**:
+2. Run the **first part of the code**:
 
    * It will ask you to paste the URL
-   * Then it will ask how many pages you want to scrape
+   * Then it will ask how many pages you want to scrape ( 2 to 7 pages)
    * It will collect links from all those pages
 5. Run the **second part of the code**:
 
@@ -77,6 +75,8 @@ By the end, you’ll have a CSV file that includes:
 * The date of scraping
 
 This file can then be used for data analysis, a school project, or anything else.
-If you have any questions or problems to use the code, feel free to contact at any time :  
+I've already made two datasets using the code : smartphones.csv and Laptops.csv. 
+If you have any questions or problems to use the code, feel free to contact at any time : 
+linkedin : https://www.linkedin.com/in/raoufrhm/
 E-mail : rahmaniraouf133@gmail.com  
 WhatsApp : +33 7 80 82 40 80  
